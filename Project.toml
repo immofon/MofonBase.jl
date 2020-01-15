@@ -1,0 +1,4 @@
+name = "MofonBase"
+uuid = "f86311af-d4d5-4877-8d32-564a46a659f1"
+authors = ["mofon <immofon@163.com>"]
+version = "0.1.0"
